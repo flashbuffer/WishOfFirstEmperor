@@ -1,7 +1,8 @@
-##LangChain
+## LangChain
 模板便于产生长的输入
 AI返回的结果可以进一步结构化变为Json
 
-Conversation  1 提供人机自然的对话方式
+Conversation  
+1 提供人机自然的对话方式
 2 预先输入问答
 3 如果对话过长，可以选择窗口时的会话方式，减少内存占用
